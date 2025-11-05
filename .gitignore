@@ -1,0 +1,6 @@
+﻿# Ignore venvs and temp files
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
